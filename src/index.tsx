@@ -40,7 +40,7 @@ function Root() {
                     image: ""
                   }
                 ]}
-                defaultCreatorFee={0.01}
+                defaultCreatorFee={0.04}
                 defaultJackpotFee={0.001}
               >
                 <App />
