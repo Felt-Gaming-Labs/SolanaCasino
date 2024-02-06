@@ -37,7 +37,7 @@ function Root() {
                 games={GAMES}
                 tokens={[
                   {
-                    image: ""
+                    
                   }
                 ]}
                 defaultCreatorFee={0.04}
